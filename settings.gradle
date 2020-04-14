@@ -1,0 +1,3 @@
+rootProject.name='Stevia Android'
+include ':app'
+include ':stevia'
